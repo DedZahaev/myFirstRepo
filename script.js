@@ -1,1 +1,2 @@
-console.log('Hellow World');
+const a = 1
+let b = "втоая переменная"
