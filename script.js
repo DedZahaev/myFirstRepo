@@ -1,5 +1,5 @@
-let myVar = 10;
-var camelCaseTheBeastStyle = 11;
-
-let personAge = 20
-console.log('personAge', personAge);
+const div = document.getElementById('github')
+const logged = () => {
+    console.log(div.textContent);
+    console.log('commits')
+}
